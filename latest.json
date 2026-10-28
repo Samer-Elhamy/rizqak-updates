@@ -1,0 +1,12 @@
+{
+  "version": "0.3.0",
+  "notes": "إصدار رزقك v0.3.0 - الترقية الرسمية لنظام رزقك (Rizqak POS) مع دعم الأمان والتحقق من التحديثات وقفل الورديات.",
+  "pub_date": "2026-10-28T00:00:00Z",
+  "channel": "demo",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "I4KByVjxHRpo8ZYmVJEP4UZ+ET6M02+ldU/DFKzeRjghs8pfUsS0Ifx6S9bY8xEFlgmFcbGaIESlZ7FG0LLTCQ==",
+      "url": "https://github.com/Samer-Elhamy/rizqak-updates/releases/download/v0.3.0/Rizqak.exe"
+    }
+  }
+}
