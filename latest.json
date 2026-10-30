@@ -1,12 +1,12 @@
 {
-  "version": "0.3.0",
-  "notes": "إصدار رزقك v0.3.0 - الترقية الرسمية لنظام رزقك (Rizqak POS) مع دعم الأمان والتحقق من التحديثات وقفل الورديات.",
-  "pub_date": "2026-10-28T00:00:00Z",
-  "channel": "demo",
+  "version": "0.3.1",
+  "notes": "الترقية الرسمية لنظام رزقك POS v0.3.1 مع دعم التفعيل الدائم المشفر والتحديث الآمن وقفل الوردية.",
+  "pub_date": "2026-10-30T15:01:50.269282Z",
+  "channel": "stable",
   "platforms": {
     "windows-x86_64": {
-      "signature": "I4KByVjxHRpo8ZYmVJEP4UZ+ET6M02+ldU/DFKzeRjghs8pfUsS0Ifx6S9bY8xEFlgmFcbGaIESlZ7FG0LLTCQ==",
-      "url": "https://github.com/Samer-Elhamy/rizqak-updates/releases/download/v0.3.0/Rizqak.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ1Y1WTUySnFlcnpnUkpVUFlWYjBzMTRJajZXMjdJd3UzZ1ZQaWY1OFo4ajhLZjJVbkFONUo3UXBiSEdrbjRVODh5bXlYVnVuMCtiUjNoa3h1MHFyMms4dytkVFQxTndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzY5MDgzCWZpbGU6Uml6cWFrIFBPU18wLjMuMV94NjQtc2V0dXAuZXhlCmJhYlR4QkxWMHoya25qV0U1ZmVJWXRJc2U4QUF1NEoyYkJwbDkxZUdLZDdqUmhqc3FsUlhQUElxVmZDUy9lNXJZS2QvNzFFb2p6TTBiaU1JOExDNEFnPT0K",
+      "url": "https://github.com/Samer-Elhamy/rizqak-updates/releases/download/v0.3.1/Rizqak.POS_0.3.1_x64-setup.exe"
     }
   }
 }
