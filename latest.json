@@ -1,12 +1,12 @@
 {
-  "version": "0.3.1",
-  "notes": "الترقية الرسمية لنظام رزقك POS v0.3.1 مع دعم التفعيل الدائم المشفر والتحديث الآمن وقفل الوردية.",
-  "pub_date": "2026-10-30T15:01:50.269282Z",
+  "version": "0.3.3",
+  "notes": "الترقية الرسمية v0.3.3 الخفيفة (12 ميجابايت فقط) - معالجة استقرار الوضع البسيط ومنع التحويل التلقائي للنوافذ المنبثقة وتفعيل التحديث في الوضع البسيط.",
+  "pub_date": "2026-10-30T16:49:17.566987Z",
   "channel": "stable",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ1Y1WTUySnFlcnpnUkpVUFlWYjBzMTRJajZXMjdJd3UzZ1ZQaWY1OFo4ajhLZjJVbkFONUo3UXBiSEdrbjRVODh5bXlYVnVuMCtiUjNoa3h1MHFyMms4dytkVFQxTndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzY5MDgzCWZpbGU6Uml6cWFrIFBPU18wLjMuMV94NjQtc2V0dXAuZXhlCmJhYlR4QkxWMHoya25qV0U1ZmVJWXRJc2U4QUF1NEoyYkJwbDkxZUdLZDdqUmhqc3FsUlhQUElxVmZDUy9lNXJZS2QvNzFFb2p6TTBiaU1JOExDNEFnPT0K",
-      "url": "https://github.com/Samer-Elhamy/rizqak-updates/releases/download/v0.3.1/Rizqak.POS_0.3.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ1Y1WTUySnFlcjdPU0xEZ1NPWjBvRVUrTTlsbENnRVhwWjZMdUdxaVZlVUZ5SURsTFJHbExscWVzR3dxVUZ1TElWK1E0TWxqSmpYSXJPL2Q3ZlVOSThSNGZWVHdyYkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzc4ODc1CWZpbGU6Uml6cWFrIFBPU18wLjMuM194NjQtc2V0dXAuZXhlCkx6NTk1cDFpaUs1a0dzU3REellxdWR4S0FUYTEzaUNXNm84RjBBMHQ1VWVWRitjMTYySk5oZGVZcG4zNDNqcDl2R3YxSHhWSU5rQnhSTy9URFFONkJBPT0K",
+      "url": "https://github.com/Samer-Elhamy/rizqak-updates/releases/download/v0.3.3/Rizqak.POS_0.3.3_x64-setup.exe"
     }
   }
 }
