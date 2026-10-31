@@ -1,12 +1,12 @@
 {
-  "version": "0.3.4",
-  "notes": "الترقية الرسمية v0.3.4 المستقرة (12 ميجابايت) - إصلاح حلقة التحديث الذاتية واستقرار التثبيت وتفعيل التحديث في الوضع البسيط.",
-  "pub_date": "2026-10-30T17:25:10.061944Z",
+  "version": "0.3.5",
+  "notes": "تحديث رسمي لنظام رزقك POS v0.3.5 - الحساب الذكي والفكة، وتحسينات شاشة البيع وسجل فواتير العملاء والتوقيع الرقمي.",
+  "pub_date": "2026-10-31T15:05:13.361522Z",
   "channel": "stable",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ1Y1WTUySnFlcnhlTGNLZTd0cDliT2VRRHV4a2JzL3VCQmM5S3lCN0JZdUQxZTZYUURhTm5jOHdydUFpa3pUT2cvZG1PaXRpQzRma2hKREVFWGlnR3krNzlSd0dDaWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzgxMDA1CWZpbGU6Uml6cWFrIFBPU18wLjMuNF94NjQtc2V0dXAuZXhlCjBvdmhSWlFhY1dpVXg2VThkTGJzTkl5djRmWHVEdXlMY2hRemxQRXRBbnIwUnBnbkt2VmVhMWFiTDQyVUUvUXVNN1ZqNCtER1B1dHdSOGtub0svcUJBPT0K",
-      "url": "https://github.com/Samer-Elhamy/rizqak-updates/releases/download/v0.3.4/Rizqak.POS_0.3.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ1Y1WTUySnFlcjRuS256Wjh6S1RFbWxoSFBUUldzMkxZRlFKSHNMUWsrRDgrT3VzYW9mRFZqczJhbXhXMWNTSVRSQ1pTVG1TLzcvVGtBRG55aUtkWXBqMHhsQWlFK2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDU4OTk2CWZpbGU6Uml6cWFrIFBPU18wLjMuNV94NjQtc2V0dXAuZXhlCm1pZjRCRkZrYmpPVnY0QnE0Z2JZMjkxbHFpTXFtUENvUWoxVnJKcEtOTU94b0RuOFlqODdRS2V4UHBvSjFhQXJzckU3Q1A5VmhrWk0rc1BTY0ZockFnPT0K",
+      "url": "https://github.com/Samer-Elhamy/rizqak-updates/releases/download/v0.3.5/Rizqak.POS_0.3.5_x64-setup.exe"
     }
   }
 }
