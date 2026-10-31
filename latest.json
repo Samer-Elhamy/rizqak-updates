@@ -1,12 +1,12 @@
 {
-  "version": "0.3.6",
-  "notes": "تصحيح دمج شاشة البيع والعملاء وحفظ PDF وفحص التحديثات.",
-  "pub_date": "2026-10-31T17:43:51.704274Z",
+  "version": "0.3.7",
+  "notes": "تصحيح دمج شاشة البيع وتفاصيل الفاتورة وحفظ PDF ومحرر الأصناف.",
+  "pub_date": "2026-10-31T18:15:58.976728Z",
   "channel": "stable",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ1Y1WTUySnFlcjRPSWh4bmJ1R09WWFFydVlLcjBrRnBkamVBaW85RTR6ekJSZWlHM0Q3WHcrRE1sZ1c1aytRSVY1VWJSOUJkRjZSazlNT1ZLUVlCeFl2djBpWEVYOUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDY3NDMzCWZpbGU6Uml6cWFrIFBPU18wLjMuNl94NjQtc2V0dXAuZXhlCnBQQnNZS3BZeERsMnJnRE5obGNVQm5sdmlQN2l1SHluOHhTWVpua1ZpY08rWi9ra2RKWmtIRHUwWCsrM0RidWNFelJWeGgyZHpVNmZVRHRIMlVBckJBPT0K",
-      "url": "https://github.com/Samer-Elhamy/rizqak-updates/releases/download/v0.3.6/Rizqak.POS_0.3.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ1Y1WTUySnFlcjV2Z3NLY1VocFladU5uWTVRZFhxNjhBenZnRDVGbUNnNUNWYTNsdk9NVXNsZjdKUXZ4aHZqRkdaL005bEFWcVpVZ3ZuU3lTaENwVVJQZUpIQzlsa2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDcwNDkwCWZpbGU6Uml6cWFrIFBPU18wLjMuN194NjQtc2V0dXAuZXhlCjhsZnlaeEFIYXJIZWhHQzNZZDFYN3pqUzJjYWNsL3djcE5KZDdLai9kSmhyS1ptank3cGpOVi9BNk5GeTZwMnlPZENBT2tRN3QrN0t6L1duMDVqcER3PT0K",
+      "url": "https://github.com/Samer-Elhamy/rizqak-updates/releases/download/v0.3.7/Rizqak.POS_0.3.7_x64-setup.exe"
     }
   }
 }
