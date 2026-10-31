@@ -1,12 +1,12 @@
 {
-  "version": "0.3.5",
-  "notes": "تحديث رسمي لنظام رزقك POS v0.3.5 - الحساب الذكي والفكة، وتحسينات شاشة البيع وسجل فواتير العملاء والتوقيع الرقمي.",
-  "pub_date": "2026-10-31T15:24:12.522817Z",
+  "version": "0.3.6",
+  "notes": "تصحيح دمج شاشة البيع والعملاء وحفظ PDF وفحص التحديثات.",
+  "pub_date": "2026-10-31T17:43:51.704274Z",
   "channel": "stable",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ1Y1WTUySnFlcjlJcHBiUkU0YXI0d1BjVmNMZHpRd2Rna2FyN0JpQ3RJdEU5MFBTYUVwM0FtYWtpZ0NaNC93QkdXUld0RHN4eCtvK2JxWVlCSkQzYk0vL0RGUGhUY1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDYwMTkzCWZpbGU6Uml6cWFrIFBPU18wLjMuNV94NjQtc2V0dXAuZXhlCm5GVE9NM0dNOStaTmRQU2h4dGw2V3N5RmN5ZHhrS1JIRGVYWmhjQkRoMUtWN3duRm41ZzNVbkxTQm1hNXBBRG9Ld2VISnBUZDlOMHBSdkZnZUJ0VUJnPT0K",
-      "url": "https://github.com/Samer-Elhamy/rizqak-updates/releases/download/v0.3.5/Rizqak.POS_0.3.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ1Y1WTUySnFlcjRPSWh4bmJ1R09WWFFydVlLcjBrRnBkamVBaW85RTR6ekJSZWlHM0Q3WHcrRE1sZ1c1aytRSVY1VWJSOUJkRjZSazlNT1ZLUVlCeFl2djBpWEVYOUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDY3NDMzCWZpbGU6Uml6cWFrIFBPU18wLjMuNl94NjQtc2V0dXAuZXhlCnBQQnNZS3BZeERsMnJnRE5obGNVQm5sdmlQN2l1SHluOHhTWVpua1ZpY08rWi9ra2RKWmtIRHUwWCsrM0RidWNFelJWeGgyZHpVNmZVRHRIMlVBckJBPT0K",
+      "url": "https://github.com/Samer-Elhamy/rizqak-updates/releases/download/untagged-e807e83e671853c9198c/Rizqak.POS_0.3.6_x64-setup.exe"
     }
   }
 }
