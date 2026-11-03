@@ -1,12 +1,12 @@
 {
-  "version": "0.3.9",
-  "notes": "ترقية شاملة: استبقاء الورديات، تسعير الجملة والتجزئة ودفاتر الحسابات، نسخ احتياطي محلي وسحابي مشفر، وواجهة طوارئ لاستعادة البيانات برمز PIN.",
-  "pub_date": "2026-11-03T04:04:58.942747Z",
+  "version": "0.3.10",
+  "notes": "إصدار تصحيحي طارئ: حل مشكلة تعارض توافقية نهايات الأسطر (EOL) لترقية قواعد بيانات الأجهزة المفعلة من Schema 12 إلى 16، وعزل أخطاء البيانات عن مسارات التفعيل، مع استقرار منظومة الاستعادة المشفرة برمز PIN.",
+  "pub_date": "2026-11-03T10:25:00.000000Z",
   "channel": "stable",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ1Y1WTUySnFlcjU4UXd2UmtjV2lpTlZMSFZXRGMweERkSHVPRm81bXN5ZmtIYk5VbzdSRlVQc25IanRLZi9INTI0eUtUNDZaMEFFbnplQzhxcXM1cmo0Y2tFYmcrZWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjc3NjYwCWZpbGU6Uml6cWFrIFBPU18wLjMuOV94NjQtc2V0dXAuZXhlCkxPZndnbW4yOFExdHVlRGJ5eVJzMVZma1RTaXBjckw2Q1RROGdWL215YzNLaUptalBYT0ZySzRlbzMrQnRFdkd5a1dHTzhaWmc2Nnd6UitYMXdvaUR3PT0K",
-      "url": "https://github.com/Samer-Elhamy/rizqak-updates/releases/download/v0.3.9/Rizqak.POS_0.3.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ1Y1WTUySnFlcjI4WW9hOWRjeEROVEpxWnh2aEJsMFlZcnJHdWRiUlQzcUhEVTk0QWdBa3NnRWZMUThkaFNQeEswNDBMSlBucUNjbGxiVGFFSWxlRTNyOG56a05HN0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzAxMDg0CWZpbGU6Uml6cWFrIFBPU18wLjMuMTBfeDY0LXNldHVwLmV4ZQpNWkRYRFJLYjFUS1ozTysrQnVkbnNxYW5WYXJJaDE1bEVLL2MwbEIzeFNid0oxbjk0TFhPRmlYZVNhRkxlaTV2SEZzWGkvL3IycUtobFQzQ2YvUGZDdz09Cg==",
+      "url": "https://github.com/Samer-Elhamy/rizqak-updates/releases/download/v0.3.10/Rizqak.POS_0.3.10_x64-setup.exe"
     }
   }
 }
