@@ -1,12 +1,12 @@
 {
-  "version": "0.3.8",
-  "notes": "إصلاح خطأ أكروبات 135 وتوسيع مساحة أصناف السلة وتنسيق لوحة الدفع.",
-  "pub_date": "2026-10-31T18:39:25.583854Z",
+  "version": "0.3.9",
+  "notes": "ترقية شاملة: استبقاء الورديات، تسعير الجملة والتجزئة ودفاتر الحسابات، نسخ احتياطي محلي وسحابي مشفر، وواجهة طوارئ لاستعادة البيانات برمز PIN.",
+  "pub_date": "2026-11-03T04:04:58.942747Z",
   "channel": "stable",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ1Y1WTUySnFlcjE1cDdBam5neE9HYmttT3RNYStMQW9Lb2JFUTlCTHh0QTBhdlJJK2k3dnhGR0xxSTByck9qT0Ruck9sQTBXcVpRbDY1Zi9mcmdwSDBZcnhGQUxEeWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDcxOTAzCWZpbGU6Uml6cWFrIFBPU18wLjMuOF94NjQtc2V0dXAuZXhlCkJOUFV4Q29WT0RJelNoSTVsMkowTklLWWl2TmlEL2VzakMvbllhcVFqeGYxZHNkNVcvYStxa1pEeEtyS3FRQlp6Tm1IaVVVQTFYeURzTCtkUlpoSENnPT0K",
-      "url": "https://github.com/Samer-Elhamy/rizqak-updates/releases/download/v0.3.8/Rizqak.POS_0.3.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ1Y1WTUySnFlcjU4UXd2UmtjV2lpTlZMSFZXRGMweERkSHVPRm81bXN5ZmtIYk5VbzdSRlVQc25IanRLZi9INTI0eUtUNDZaMEFFbnplQzhxcXM1cmo0Y2tFYmcrZWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjc3NjYwCWZpbGU6Uml6cWFrIFBPU18wLjMuOV94NjQtc2V0dXAuZXhlCkxPZndnbW4yOFExdHVlRGJ5eVJzMVZma1RTaXBjckw2Q1RROGdWL215YzNLaUptalBYT0ZySzRlbzMrQnRFdkd5a1dHTzhaWmc2Nnd6UitYMXdvaUR3PT0K",
+      "url": "https://github.com/Samer-Elhamy/rizqak-updates/releases/download/v0.3.9/Rizqak.POS_0.3.9_x64-setup.exe"
     }
   }
 }
