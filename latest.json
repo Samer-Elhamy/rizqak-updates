@@ -1,11 +1,11 @@
 {
   "version": "0.3.12",
-  "notes": "إصدار رسمي معتمد v0.3.12: دعم استمرارية التفعيل والحسابات الأصلية بعد الفورمات وتغيير الويندوز، توزيع النسخ الاحتياطية المشفرة متعددة الوجهات، منع الاستعادة بوجود وردية، وتحديث تصميم فواتير المبيعات بشعار رزقك المصغر.",
-  "pub_date": "2026-11-03T18:39:55.000000Z",
+  "notes": "إصدار رسمي معتمد v0.3.12: دعم استمرارية التفعيل والحسابات الأصلية بعد الفورمات وتغيير الويندوز، توفير رابط مباشر لتسجيل الدخول في شاشة الإعداد، توزيع النسخ الاحتياطية المشفرة متعددة الوجهات، منع الاستعادة بوجود وردية، وتحديث تصميم فواتير المبيعات بشعار رزقك المصغر.",
+  "pub_date": "2026-11-03T20:29:21.000000Z",
   "channel": "stable",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ1Y1WTUySnFlcng3Ny90aVloWTJkaTVkNkdnN3VKUW12NnQ0cnFiZkw5SC9GbjF1YVliTkxTYVZFbEFCaHhadG1SbFFVcUpOeEx6VkU5R21hNjF5UVhIU00xS0VFS3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzI5MjgyCWZpbGU6Uml6cWFrIFBPU18wLjMuMTJfeDY0LXNldHVwLmV4ZQpCSkRMVHpvSXVPNHEvVHVqa09uWGg4Q0hyczNDNWxoK2lHUzVZQWRvM1R6d1J0MlVJMHZBV0xQRmxGVGx0TlhqLytoQVZyZDh4emZEbjEwaUp2WnlBZz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ1Y1WTUySnFlcnpkZHIwcjNOSzNMWUVubHF1T0p5QTl0UDI2QzRxK1NuUVY5N0s1N3BwcVY3dytaUFVqOVRZNjNhRlpQcWtDRzYyYzUvQXl1bnNZZXVXbkhsUkROU0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzM3NTUzCWZpbGU6Uml6cWFrIFBPU18wLjMuMTJfeDY0LXNldHVwLmV4ZQpWcnhtaHdBU2dReTZwV0FlL2I5Y0NBTlZpSC82MlFXN05FNE8zNm1WbmE5ZmNXVXhjcDFtOUgrVnF1OE44aDFpdk51M1paeS9PL3B4NVBLZkM1ZW1BQT09Cg==",
       "url": "https://github.com/Samer-Elhamy/rizqak-updates/releases/download/v0.3.12/Rizqak.POS_0.3.12_x64-setup.exe"
     }
   }
