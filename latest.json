@@ -1,12 +1,12 @@
 {
-  "version": "0.3.14",
-  "notes": "0.3.14: حماية بدء التشغيل عند تلف قاعدة البيانات، ومنع إنشاء متجر فارغ مع حفظ الملف وملفات WAL/SHM. احفظ الشغل واقفل الوردية واحتفظ بنسخة احتياطية. نتائج الاختبارات والقيود المعروفة موثقة في ملاحظات الإصدار.",
-  "pub_date": "2026-11-04T16:57:54Z",
+  "version": "0.3.15",
+  "notes": "0.3.15: تسجيل التالف وخسارته غير النقدية، المدفوعات والفواتير للعميل، الحفظ والاسترجاع من الفلاشة داخل أدوات تانية وشاشة البداية، وإصلاحات السداد وحاجز الاسترجاع. اختبارات الإضافات وNative موثقة؛ فحوص شاملة بها إخفاقات معروفة وتغطية العتاد محدودة — راجع ملاحظات الإصدار.",
+  "pub_date": "2026-11-04T22:39:09Z",
   "channel": "stable",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ1Y1WTUySnFlcitvdmFvWEEyVHZFYzcvQWhUMEMvakxicUh3aDdrR1hjcU04YkplcXFkK2lBZVFtU2l1Rm1DRnQyd2grdkdjNVZGalFZcWE5ZWYwc2JqVEh4NzRXL2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODExMzU4CWZpbGU6Uml6cWFrIFBPU18wLjMuMTRfeDY0LXNldHVwLmV4ZQp5RE9kTkNyVG1YWFdZUmNMSEk1bXcrSG14dkxmUmNnTDErTTZzYklhcHVBaEV4QmcvTndaNjVadUxIcHlXUHJsTzJhWXUxZTlOUEw3bGwvLytueEZDZz09Cg==",
-      "url": "https://github.com/Samer-Elhamy/rizqak-updates/releases/download/v0.3.14/Rizqak.POS_0.3.14_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ1Y1WTUySnFlcnhjT1NyaUVwS2ZGRmhNRHFNK215MW5OQzZjQVdaaHIvRk11cG5oODQ4TDNoTXluc2tXYnlSRU1yQ3ptbW50L0ovMjB1OWg1M1lsNU1BUTBkVnhiSGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODMxOTQ4CWZpbGU6Uml6cWFrIFBPU18wLjMuMTVfeDY0LXNldHVwLmV4ZQpYUHkrYi9rOGdYc0YxV3NuRmkrYlhqWUpLK2JNa0NZTVo2aU1QOWdPZDQzYTFzTmt1ZzlHZlFSN3FneVNxK2xvRDNmUkd5akphMjRTaURzRWNwNHBDUT09Cg==",
+      "url": "https://github.com/Samer-Elhamy/rizqak-updates/releases/download/v0.3.15/Rizqak.POS_0.3.15_x64-setup.exe"
     }
   }
 }
