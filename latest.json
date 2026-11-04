@@ -1,12 +1,12 @@
 {
-  "version": "0.3.13",
-  "notes": "0.3.13: إصلاح مشتريات الموردين والأرصدة والكميات الموزونة والمرتجعات، واستكمال طلب الشراء دون تكرار، وتحسين قائمة المصاريف. أغلق الوردية واحتفظ بنسخة احتياطية قبل التثبيت. تفاصيل التحقق والقيود المعروفة في ملاحظات الإصدار.",
-  "pub_date": "2026-11-04T09:31:39Z",
+  "version": "0.3.14",
+  "notes": "0.3.14: حماية بدء التشغيل عند تلف قاعدة البيانات، ومنع إنشاء متجر فارغ مع حفظ الملف وملفات WAL/SHM. احفظ الشغل واقفل الوردية واحتفظ بنسخة احتياطية. نتائج الاختبارات والقيود المعروفة موثقة في ملاحظات الإصدار.",
+  "pub_date": "2026-11-04T16:57:54Z",
   "channel": "stable",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ1Y1WTUySnFlcnlOMlY1L295bUZsbW9CNHkxSzYvZVdxa29mOXh0cEl2SVlZQTZOSzUyT3loQW5XUWFmTTlrczViR1ZrVGRhVTJ1WkhXNmRhcUZyRWlrV2R2bWhqSGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzY5MjgzCWZpbGU6Uml6cWFrIFBPU18wLjMuMTNfeDY0LXNldHVwLmV4ZQoyb25tY0pGTzBycVRLVEdBZ0FReGY0VG5ndVhtNzhQTnAxYWlkbFVESDBjbHNPQmp5U2lQVkpIeksvMjR1dEYvQ1FOSVJwSTk5SW5kSlBlUWtmVUpEZz09Cg==",
-      "url": "https://github.com/Samer-Elhamy/rizqak-updates/releases/download/v0.3.13/Rizqak.POS_0.3.13_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ1Y1WTUySnFlcitvdmFvWEEyVHZFYzcvQWhUMEMvakxicUh3aDdrR1hjcU04YkplcXFkK2lBZVFtU2l1Rm1DRnQyd2grdkdjNVZGalFZcWE5ZWYwc2JqVEh4NzRXL2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODExMzU4CWZpbGU6Uml6cWFrIFBPU18wLjMuMTRfeDY0LXNldHVwLmV4ZQp5RE9kTkNyVG1YWFdZUmNMSEk1bXcrSG14dkxmUmNnTDErTTZzYklhcHVBaEV4QmcvTndaNjVadUxIcHlXUHJsTzJhWXUxZTlOUEw3bGwvLytueEZDZz09Cg==",
+      "url": "https://github.com/Samer-Elhamy/rizqak-updates/releases/download/v0.3.14/Rizqak.POS_0.3.14_x64-setup.exe"
     }
   }
 }
