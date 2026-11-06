@@ -1,12 +1,12 @@
 {
-  "version": "0.3.15",
-  "notes": "0.3.15: تسجيل التالف وخسارته غير النقدية، المدفوعات والفواتير للعميل، الحفظ والاسترجاع من الفلاشة داخل أدوات تانية وشاشة البداية، وإصلاحات السداد وحاجز الاسترجاع. اختبارات الإضافات وNative موثقة؛ فحوص شاملة بها إخفاقات معروفة وتغطية العتاد محدودة — راجع ملاحظات الإصدار.",
-  "pub_date": "2026-11-04T22:39:09Z",
+  "version": "0.3.17",
+  "notes": "0.3.17: إصلاح بداية الحسابات السابقة، مجلد نسخ احتياطية مستقل تختاره مع حفظ تلقائي ويدوي موثّق بالبصمة، وزر فحص تحديث قبل الدخول. تفاصيل الاختبارات والحدود في ملاحظات الإصدار.",
+  "pub_date": "2026-11-05T23:49:42Z",
   "channel": "stable",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ1Y1WTUySnFlcnhjT1NyaUVwS2ZGRmhNRHFNK215MW5OQzZjQVdaaHIvRk11cG5oODQ4TDNoTXluc2tXYnlSRU1yQ3ptbW50L0ovMjB1OWg1M1lsNU1BUTBkVnhiSGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODMxOTQ4CWZpbGU6Uml6cWFrIFBPU18wLjMuMTVfeDY0LXNldHVwLmV4ZQpYUHkrYi9rOGdYc0YxV3NuRmkrYlhqWUpLK2JNa0NZTVo2aU1QOWdPZDQzYTFzTmt1ZzlHZlFSN3FneVNxK2xvRDNmUkd5akphMjRTaURzRWNwNHBDUT09Cg==",
-      "url": "https://github.com/Samer-Elhamy/rizqak-updates/releases/download/v0.3.15/Rizqak.POS_0.3.15_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ1Y1WTUySnFlcnpBZVh3dWFKZ0hib3FWbTBqdjhtRk1jTDQycTF1eDNoYW85ckVvZWRaOHdyaU9nUkp1bXd6elFldWNaS3BQMEljcXQ3NHpRb3R4eGRXOFJaQ0t4K2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTIyNTcxCWZpbGU6Uml6cWFrIFBPU18wLjMuMTdfeDY0LXNldHVwLmV4ZQphSjQrWFdSTGJyYVJNQVR3WWJZT1RDREMrNzk2TE1ZSmF4YUgyK3FMUHV2dnJWVk1EdGpXU1lTYml0Mmt3cjdGTUNVSDF5TEE5MHVMZ1FaNmxkbEhEQT09Cg==",
+      "url": "https://github.com/Samer-Elhamy/rizqak-updates/releases/download/v0.3.17/Rizqak.POS_0.3.17_x64-setup.exe"
     }
   }
 }
