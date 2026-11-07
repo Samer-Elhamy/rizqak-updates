@@ -1,12 +1,12 @@
 {
-  "version": "0.3.17",
-  "notes": "0.3.17: إصلاح بداية الحسابات السابقة، مجلد نسخ احتياطية مستقل تختاره مع حفظ تلقائي ويدوي موثّق بالبصمة، وزر فحص تحديث قبل الدخول. تفاصيل الاختبارات والحدود في ملاحظات الإصدار.",
-  "pub_date": "2026-11-05T23:49:42Z",
+  "version": "0.3.20",
+  "notes": "إصدار v0.3.20: إصلاح حفظ بيانات العملاء وتعدد أرقام الهاتف والبحث بالرقم الأساسي، وإضافة تسوية ديون العملاء السابقة دون التأثير على الخزينة أو المبيعات عند الإضافة، ومساعد استعادة التثبيتات السابقة (3 خطوات) مع حماية الملفات الأصلية (نسخة خفيفة تتطلب WebView2).",
+  "pub_date": "2026-11-07T05:04:14Z",
   "channel": "stable",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ1Y1WTUySnFlcnpBZVh3dWFKZ0hib3FWbTBqdjhtRk1jTDQycTF1eDNoYW85ckVvZWRaOHdyaU9nUkp1bXd6elFldWNaS3BQMEljcXQ3NHpRb3R4eGRXOFJaQ0t4K2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTIyNTcxCWZpbGU6Uml6cWFrIFBPU18wLjMuMTdfeDY0LXNldHVwLmV4ZQphSjQrWFdSTGJyYVJNQVR3WWJZT1RDREMrNzk2TE1ZSmF4YUgyK3FMUHV2dnJWVk1EdGpXU1lTYml0Mmt3cjdGTUNVSDF5TEE5MHVMZ1FaNmxkbEhEQT09Cg==",
-      "url": "https://github.com/Samer-Elhamy/rizqak-updates/releases/download/v0.3.17/Rizqak.POS_0.3.17_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ1Y1WTUySnFlcjFnMnBkOFJFeEFGcXJjUnVYVllIRUlFOUxnTjhMRlRMdE9SVFhyTkczeFhLa1FxcHpNV0JyNS85SWxRNjRGSEFlUzFqU0pySExPYjBuaW9MMlhZT1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDEzOTY4CWZpbGU6Uml6cWFrIFBPU18wLjMuMjBfeDY0LXNldHVwLmV4ZQpvVHVKNUdpSzcxTmxWbExuTTR1M0lvdU4vbGNJMU9UQTRZZ1FYSGlvL25BTldiUWhsSnB3VUhUa2VmWXpva3g4UUdPQ29KOWZQSE5EZnByWXhJMVlDdz09Cg==",
+      "url": "https://github.com/Samer-Elhamy/rizqak-updates/releases/download/v0.3.20/Rizqak.POS_0.3.20_x64-setup.exe"
     }
   }
 }
